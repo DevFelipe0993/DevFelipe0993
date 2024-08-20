@@ -24,4 +24,4 @@
   <a href="www.linkedin.com/in/felipe-augusto-marques-39b48a262" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a
 </div>
 
-![Snake animation](https://github.com/DevFelipe0993/DevFelipe0993/blob/output/git-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/DevFelipe0993/DevFelipe0993/blob/output/github-snake-dark.svg)
