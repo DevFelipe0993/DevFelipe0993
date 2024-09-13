@@ -1,15 +1,32 @@
-## Bem-vindo(a) ao perfil do DevFelipe0993 😁
+<h2 align="left">🪧🎨 Salve! Felipe aqui, Dev Web | Front-end 💻📱</h2>
 
  <div>
    <a href="https://github.com/DevFelipe0993">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevFelipe0993&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFelipe0993&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+<br>
+
+  ##  👩‍💻  About Me:
+  - 🔭 Trabalho com agendamento de serviço de internet
+  - 📚 Atualmente estou aprendendo a codar e criar bugs
+  - ⚡ No meu tempo livre eu estudo e faço muay thai
+
+#🛠 Language and tools: <br>
+<br>
     
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
  
 <br>
